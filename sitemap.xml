@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://chetmancini.com/adventures/</loc>
+        <lastmod>2014-04-19T21:11:20-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://chetmancini.com/backup/</loc>
+        <lastmod>2014-03-04T23:51:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://chetmancini.com/</loc>
+        <lastmod>2014-04-23T20:33:10-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://chetmancini.com/projects/</loc>
+        <lastmod>2014-07-14T17:14:28-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://chetmancini.com/robots.txt</loc>
+        <lastmod>2014-03-04T23:51:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://chetmancini.com/writing/archives/</loc>
+        <lastmod>2014-03-04T23:59:49-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://chetmancini.com/writing/</loc>
+        <lastmod>2014-03-06T22:31:25-05:00</lastmod>
+    </url>
+</urlset>
